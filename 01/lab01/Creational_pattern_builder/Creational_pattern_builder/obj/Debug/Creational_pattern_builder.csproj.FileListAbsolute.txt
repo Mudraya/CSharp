@@ -1,0 +1,6 @@
+D:\FILES\III курс - 2018\Csh\01\lab01\Creational_pattern_builder\Creational_pattern_builder\bin\Debug\Creational_pattern_builder.exe.config
+D:\FILES\III курс - 2018\Csh\01\lab01\Creational_pattern_builder\Creational_pattern_builder\bin\Debug\Creational_pattern_builder.exe
+D:\FILES\III курс - 2018\Csh\01\lab01\Creational_pattern_builder\Creational_pattern_builder\bin\Debug\Creational_pattern_builder.pdb
+D:\FILES\III курс - 2018\Csh\01\lab01\Creational_pattern_builder\Creational_pattern_builder\obj\Debug\Creational_pattern_builder.csprojResolveAssemblyReference.cache
+D:\FILES\III курс - 2018\Csh\01\lab01\Creational_pattern_builder\Creational_pattern_builder\obj\Debug\Creational_pattern_builder.exe
+D:\FILES\III курс - 2018\Csh\01\lab01\Creational_pattern_builder\Creational_pattern_builder\obj\Debug\Creational_pattern_builder.pdb

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Creational_pattern_builder.Additives">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Additives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.Baker">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Baker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.ChocolateDoughBuilder">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAgA=</HashCode>
+      <FileName>ChocolateDoughBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.Dough">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAIAAAAAkAAgAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Dough.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.DoughBuilder">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAAAAAAAAAAAAAAgAAAACAAAAAQAAAwA=</HashCode>
+      <FileName>DoughBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.Flour">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.Eggs">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Eggs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.Milk">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Milk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.Program">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.Sugar">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sugar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creational_pattern_builder.VanillaDoughBuilder">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAgA=</HashCode>
+      <FileName>VanillaDoughBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
